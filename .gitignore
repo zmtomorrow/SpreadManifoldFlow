@@ -1,2 +1,4 @@
 .ipynb_checkpoint
 .DS_Stores
+./nflib/.ipynb_checkpoints
+./nflib/__pycache__
